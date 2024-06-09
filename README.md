@@ -57,7 +57,7 @@ Here are some screenshots of the app:
 
 ### Car Details Screen
 <div align="center">
-  <img src="https://github.com/AIdevol/Mx-Movie-app/blob/main/assets/images/Mx_movie_app-ezgif.com-video-to-gif-converter.gif" alt="GIF Preview" width="300"/>
+  <img src="https://github.com/AIdevol/Car_collections/blob/main/assets/images/carApp.mp4" alt="GIF Preview" width="300"/>
 </div>
 
 > **Note:** Replace the paths with the actual paths to your images in your repository.
