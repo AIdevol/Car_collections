@@ -40,7 +40,7 @@ Here are some screenshots of the app:
 
 ### Car Details Screen
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/shorts/HMBTNNbvVA0" frameborder="0" allowfullscreen></iframe>
+  <img src="https://github.com/AIdevol/Car_collections/blob/main/assets/carApp-ezgif.com-video-to-gif-converter.gif" alt="GIF Preview" width="300"/>
 </div>
 
 > **Note:** Replace the paths with the actual paths to your images in your repository.
