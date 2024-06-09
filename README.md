@@ -4,23 +4,6 @@ Sure! Here's the updated `README.md` with a section for an app preview:
 
 🚗 **Cars Collection** is a new Flutter project showcasing a stunning collection of cars. Whether you're a car enthusiast or a Flutter developer, this project is the perfect starting point for exploring the capabilities of Flutter in building beautiful, high-performance mobile applications.
 
-## Getting Started
-
-This project is a starting point for a Flutter application, designed to help you get up and running quickly.
-
-### Resources to Get You Started
-
-If this is your first Flutter project, here are a few resources to help you get started:
-
-- 📘 [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- 📚 [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-### Additional Help
-
-For more in-depth information on Flutter development, you can check out the following resources:
-
-- 📖 [Online Documentation](https://docs.flutter.dev/): Offers tutorials, samples, guidance on mobile development, and a full API reference.
-
 ## Project Overview
 
 The Cars Collection project aims to provide a comprehensive overview of various car models, complete with details and images. This project will demonstrate:
@@ -57,7 +40,7 @@ Here are some screenshots of the app:
 
 ### Car Details Screen
 <div align="center">
-  <img src="https://github.com/AIdevol/Mx-Movie-app/blob/main/assets/images/Mx_movie_app-ezgif.com-video-to-gif-converter.gif" alt="GIF Preview" width="300"/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 </div>
 
 > **Note:** Replace the paths with the actual paths to your images in your repository.
