@@ -1,4 +1,4 @@
-Sure! Here's the updated `README.md` with a section for an app preview:
+
 
 # Cars Collection
 
