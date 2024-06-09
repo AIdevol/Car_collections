@@ -40,7 +40,7 @@ Here are some screenshots of the app:
 
 ### Car Details Screen
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/shorts/HMBTNNbvVA0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 > **Note:** Replace the paths with the actual paths to your images in your repository.
