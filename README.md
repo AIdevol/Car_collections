@@ -43,8 +43,6 @@ Here are some screenshots of the app:
   <img src="https://github.com/AIdevol/Car_collections/blob/main/assets/carApp-ezgif.com-video-to-gif-converter.gif" alt="GIF Preview" width="300"/>
 </div>
 
-> **Note:** Replace the paths with the actual paths to your images in your repository.
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
